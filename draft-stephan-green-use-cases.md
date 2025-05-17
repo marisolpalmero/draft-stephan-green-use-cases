@@ -1,7 +1,7 @@
 ---
 title: "Use Cases for Energy Efficiency Management"
 abbrev: "Use Cases for Energy Efficiency"
-docname: draft-stephan-green-use-cases-latest
+docname: draft-stephan-green-use-cases-00
 category: info
 stand_alone: true
 
